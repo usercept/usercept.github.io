@@ -6,4 +6,8 @@ Its about time that we got this website on the road. :)
 
 [Coding](coding.md)
 
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
+ <style>
+.footer {
+  display: none;
+}
+</style>
