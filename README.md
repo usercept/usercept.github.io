@@ -5,3 +5,5 @@ Its about time that we got this website on the road. :)
 [Using a VPS as your coding workhouse](workstation.md)
 
 [Coding](coding.md)
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
