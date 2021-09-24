@@ -4,5 +4,4 @@ Its about time that we got this website on the road. :)
 
 [Using a VPS as your coding workhouse](workstation.md)
 
-
 [Coding](coding.md)
